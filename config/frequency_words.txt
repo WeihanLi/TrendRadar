@@ -1,3 +1,10 @@
+dotnet
+dotnetconf
+CSharp
+C#
+VisualStudio
+Rider
+
 DeepSeek
 梁文锋
 
@@ -42,18 +49,26 @@ NVIDIA
 黄仁勋
 
 AMD
+苏妈
+苏姿丰
 
 谷歌
 google
+
+GitHub
+
+copilot
 gemini
 deepmind
-
 chatgpt
 openai
+xai
 sora
-
 claude
 Anthropic
+通义千问
+
+AIAgent
 
 iphone
 ipad
@@ -65,7 +80,6 @@ ai
 人工智能
 
 自动驾驶
-
 机器人
 
 国产
@@ -79,11 +93,7 @@ GPU
 芯片
 光刻机
 
-科技
-
-核能
 新能源
-
 新质生产力
 
 月球
@@ -92,10 +102,3 @@ GPU
 宇宙
 飞船
 航空
-
-dotnet
-dotnetconf
-CSharp
-C#
-VisualStudio
-Rider
